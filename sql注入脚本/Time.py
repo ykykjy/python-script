@@ -347,6 +347,7 @@ def get_line(database, table, names, len_list):
     return line_list
 
 
+
 def get_database_total(database):
     """
     获取指定数据库的所有信息
